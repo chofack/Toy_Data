@@ -1,4 +1,4 @@
-#practice SEM modeling
+#practice SEM modeling 
 
 library("OpenMx", lib.loc="~/R/win-library/3.1")
 
